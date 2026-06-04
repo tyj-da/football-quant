@@ -1,0 +1,6 @@
+# Football Quant 依赖
+# Python 3.10+
+# 安装：pip install -r requirements.txt
+csv  # 标准库
+json  # 标准库
+math  # 标准库
