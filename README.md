@@ -103,7 +103,7 @@ CSV需包含以下字段：
 
 ## 作者
 
-**我还是我** — 20年量化交易经验，这套系统是把交易中的资金管理方法论迁移到足球赛事分析的实践。
+**kt** — 20年量化交易经验，这套系统是把交易中的资金管理方法论迁移到足球赛事分析的实践。
 
 - GitHub: [@tyj-da](https://github.com/tyj-da)
 - 项目地址：https://github.com/tyj-da/football-quant
