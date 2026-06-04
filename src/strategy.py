@@ -59,6 +59,6 @@ def evaluate_bets(match, dc_probs, elo_probs):
                      (outcome == "A" and hg < ag)) else 0
         bets.append({
             "outcome": outcome, "odds": odds, "stake": stake,
-            "won": won, "pnl": won * (odds - 1) - 1,
+            "won": won, "pnl": won * odds - 1,
         })
     return bets
